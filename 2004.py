@@ -41,7 +41,7 @@ def runtxt(z):
 
 def helpnote():
 	print("%s [*] FOLLOW ME ON Fb TO KNOW ABOUT UPDATES  :)"%(G))
-	subprocess.check_output(["am", "start", "https://github.com/ROX007-R/old2009/blob/Apruved.txt"])
+	subprocess.check_output(["am", "start", "https://github.com/ROX007-R/old2009/blob/Apruved.txt")
 	exit(" [*] FACEBOOK :  https://www.facebook.com/Rakib0fficials.id")
 
 
@@ -117,6 +117,10 @@ class Main:
                  ██╔══██╗██║░░██║
                  ██████╦╝██████╔╝
                  ╚═════╝░╚═════╝░
+
+
+
+                   BY::MR.RAKIB.404
 \033[1;90m══════════════════════════════════════════════════
 \033[1;91m [\033[1;94m✯\033[1;91m] \033[1;92mFACEBOOK : MD EMAZ UDDIN RAKIB  
 \033[1;91m [\033[1;94m✯\033[1;91m] \033[1;92mFB GROUP : TERMUX HUNTER BD
