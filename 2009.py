@@ -41,7 +41,7 @@ def runtxt(z):
 
 def helpnote():
 	print("%s [*] FOLLOW ME ON Fb TO KNOW ABOUT UPDATES  :)"%(G))
-	subprocess.check_output(["am", "start", "https://github.com/ROX007-R/old2009/blob/Apruved.txt"])
+	subprocess.check_output(["am", "start", "https://github.com/ROX007-R/old2009/blob/Apruved.txt")
 	exit(" [*] FACEBOOK :  https://www.facebook.com/support.192")
 
 
@@ -81,7 +81,7 @@ class Main:
 				GET = '\r'
 			else:
 				key = ("\033[0;91m -")
-				stat = ("\033[0;91mFREE USER")
+				stat = ("\033[0;91mPREMIUM")
 				FY = '\033[0;90m'
 				FG = '\033[0;90m'
 				GET = '\033[0;92m [P] GET PREMIUM'
